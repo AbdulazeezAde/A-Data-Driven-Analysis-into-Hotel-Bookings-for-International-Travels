@@ -13,4 +13,6 @@ Task:
 4. Hotel ratings and customer satisfaction
 5. Occupancy Analysis
 6. Recommendations
+
+https://abdulazeezanalytics.medium.com/unveiling-the-dynamics-of-hospitality-a-data-driven-glimpse-into-hotel-bookings-or-international-b3e286cffea5
    
